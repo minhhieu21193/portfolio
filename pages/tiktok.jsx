@@ -38,8 +38,8 @@ const tiktok = () => {
             accounts to see what interesting videos they have posted on their
             wall. And you will also have a wall of your own home that you can
             post interesting videos on. You can interact with video content like
-            liking or commenting, videos you've liked you can search for them
-            again in the liked section in your wall.
+            liking or commenting, videos you&rsquo;ve liked you can search for
+            them again in the liked section in your wall.
           </p>
           <a
             href="https://github.com/minhhieu21193/tiktol-clone"
